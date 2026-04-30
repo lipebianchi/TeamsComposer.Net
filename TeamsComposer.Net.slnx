@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="TeamsComposer.Net/TeamsComposer.Net.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="TeamsComposer.Net.Tests/TeamsComposer.Net.Tests.csproj" />
+  </Folder>
+</Solution>
